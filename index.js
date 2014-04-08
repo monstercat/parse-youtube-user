@@ -1,0 +1,5 @@
+
+module.exports = function(user) {
+ var m = user.match(/^\s*(?:(?:https?:\/\/)?(?:www\.|m\.)?youtube\.com)?\/?(?:user\/|channel\/)?([^\/\?]+)/i);
+ return m && m[1] || user;
+}
