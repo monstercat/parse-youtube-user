@@ -7,7 +7,7 @@
   thousands of users. So this accurately captures most ways people tend to paste
   their youtube url.
 
-  [![Build Status](https://travis-ci.org/monstercat/parse-youtube-user.png)](https://travis-ci.org/monstercat/parse-youtube-user)
+  [![Build Status](https://travis-ci.org/monstercat/parse-youtube-user.svg)](https://travis-ci.org/monstercat/parse-youtube-user)
 
 ## Installation
 
