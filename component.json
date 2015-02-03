@@ -2,7 +2,7 @@
   "name": "parse-youtube-user",
   "repo": "monstercat/parse-youtube-user",
   "description": "Parse a YouTube shortname from a URL",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": ["youtube"],
   "dependencies": {},
   "development": {},
