@@ -6,6 +6,9 @@ describe('youtube url parser', function(){
     parse('http://m.youtube.com/channel/UC5F2oUCU91HQMjCxJeODGsA')
     .should.equal('UC5F2oUCU91HQMjCxJeODGsA')
 
+    parse('http://m.youtube.com/c/somechannel?derp')
+    .should.equal('somechannel')
+
     parse('http://m.youtube.com/user/officialdjtmz')
     .should.equal('officialdjtmz')
 
